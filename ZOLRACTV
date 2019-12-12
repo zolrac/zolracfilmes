@@ -429,3 +429,11 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/laR" group-title="Canais | Esportes",FOX Sports HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/wQX" group-title="Canais | Alternativos",ESPN Extra HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/49P" group-title="Canais | Alternativos",ESPN HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/n8v" group-title="Canais | ESPN",ESPN 2 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/MlV" group-title="Canais | ESPN",ESPN Brasil HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
