@@ -21,6 +21,18 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/jaD" group-title="Canais | Alternativos",Warner Channel HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/bXm" group-title="Canais | Alternativos",Space SD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/jqx" group-title="Canais | Alternativos",Universal Channel HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/5D3" group-title="Canais | Alternativos",Discovery Channel HD [Alter]
+hhttps://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/VZl" group-title="Canais | Alternativos",Discovery Science HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/54s" group-title="Canais | Alternativos",Discovery Turbo HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/VR3" group-title="Canais | Alternativos",Discovery H&H HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/i6a" group-title="Filmes | Comedia",Sierra Burgess e uma Loser
 http://195.181.162.250/movie/gNCha/ATjaJ/20820.mp4?token=SBUOWBZdFA4aB1cPV1ICB1cHUl9XBFQFBFAHUgACV1QAU1UJXVMBBA1EGhUXEBNUUwg5DwAVXgQDCgMEHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUlJWCwNKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVF5WXBVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
 #EXTINF:-1 tvg-logo="http://iv.pe/wSJ" group-title="Filmes | Terror",Silent Hill
