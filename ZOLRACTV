@@ -7,10 +7,14 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/zpZ" group-title="Canais | Alternativos",Telecine Cult HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/1q6" group-title="Canais | Alternativos",Telecine Premium HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/iwJ" group-title="Canais | Alternativos",Megapix HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/8fk" group-title="Canais | Alternativos",TNT Series HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/i8x" group-title="Canais | Alternativos",Cinemax HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/i6a" group-title="Filmes | Comedia",Sierra Burgess e uma Loser
 http://195.181.162.250/movie/gNCha/ATjaJ/20820.mp4?token=SBUOWBZdFA4aB1cPV1ICB1cHUl9XBFQFBFAHUgACV1QAU1UJXVMBBA1EGhUXEBNUUwg5DwAVXgQDCgMEHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUlJWCwNKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVF5WXBVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
 #EXTINF:-1 tvg-logo="http://iv.pe/wSJ" group-title="Filmes | Terror",Silent Hill
