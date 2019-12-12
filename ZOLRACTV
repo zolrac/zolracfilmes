@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/afazenda.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/f1N" group-title="Canais | Alternativos",Telecine Action HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/eyt" group-title="Canais | Alternativos",Telecine Pipoca HD [Alter]
@@ -17,7 +19,3 @@ http://195.181.162.250/movie/gNCha/ATjaJ/21853.mp4?token=SBUOWBZdFA4aAgQHAFJTUFB
 http://84.17.40.161/movie/gNCha/ATjaJ/22088.mp4?token=SBUOWBZdFA4aVAJSVFNZCAtcBAQGAgUDUAQFB1ZTUlRRVQIPUwIOVlxEGhUXEBNUUwg5DwAVXgQBAgkMHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUVZRAwJKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwtcEAoKSBUHWUZcRUZLRllAcWVEFUdQTkBdCEVeCwpDCxAIFlJGG0ZfQG1DUUEQEQdSWgNLRw8UBBpKFFoFHD5SXQsIAwdDDVldQRMOEFVBThFaCVcMQVlGZxZfU0ZeD0ReCRs=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/z1wY25ZpngRNtvSOczT2xhQNv3J.jpg" group-title="Filmes | Lancamentos",Acho Que Matei Minha Chefe
 http://habblet3.azureedge.net/RCFServer3/ondemand/ACHQMTMNHCHFE.mp4
-
-
-
-
