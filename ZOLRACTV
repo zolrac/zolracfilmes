@@ -437,3 +437,14 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/MlV" group-title="Canais | ESPN",ESPN Brasil HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/ayO" group-title="Canais | Abertos",Band SP HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
+http://csrv.tv:80/live/R2zSN/hA1Sz/25354.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/wU1" group-title="Canais | Notícias",Record News HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/uID" group-title="Canais | Abertos",RecordTV SP HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Canais | Abertos",SBT HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Canais | Globo",Globo SP HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
