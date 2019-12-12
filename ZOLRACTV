@@ -405,3 +405,27 @@ http://195.181.162.250/movie/R2zSN/hA1Sz/20110.mp4?token=SBUOWBZdFA4aVA8BBQVWVFZ
 http://195.181.162.250/movie/R2zSN/hA1Sz/22511.mp4?token=SBUOWBZdFA4aBFcEVwZUAAcAVlNTA1MABwMDUFRUAQRSD1UKBlNTUV1EGhUXEBNUUwg5DwAVXgQBBwAFHkYWEVZFOVABFwwWCVAEDlBXVhMeRxIPCVJGDAIHBgIDXVtTCwBKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVl5XVhVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
 #EXTINF:-1 tvg-logo="http://iv.pe/bQe" group-title="Filmes | Fantasia e Ficcao",Um Olhar do Paraiso
 http://195.181.162.250/movie/R2zSN/hA1Sz/21272.mp4?token=SBUOWBZdFA4aVlIBUlVYCApdA1VTAVFUClYCAQJSVQYAUgNfBAVXAgFEGhUXEBNUUwg5DwAVXgQCAAYGHkYWEVZFOVABFwwWCVAEDlBXVhMeRxIPCVJGDAIHBgIDXVRVBA9KGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVFdeVxVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
+#EXTINF:-1 tvg-logo="http://iv.pe/UeX" group-title="Canais | Premiere",Premiere 7 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/qgt" group-title="Canais | Premiere",Premiere 6 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/NgB" group-title="Canais | Premiere",Premiere 5 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/uIF" group-title="Canais | Premiere",Premiere 4 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/zod" group-title="Canais | Premiere",Premiere 3 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/x9F" group-title="Canais | Premiere",Premiere 2 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/ku8" group-title="Canais | Premiere",Premiere Clubes HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/TS6" group-title="Canais | SporTV",SporTV 3 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/8g1" group-title="Canais | SporTV",SporTV 2 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/bt3" group-title="Canais | SporTV",SporTV HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/NTc" group-title="Canais | Esportes",FOX Sports 2 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/laR" group-title="Canais | Esportes",FOX Sports HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
