@@ -19,6 +19,8 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/i8x" group-title="Canais | Alternativos",Cinemax HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/jaD" group-title="Canais | Alternativos",Warner Channel HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/i6a" group-title="Filmes | Comedia",Sierra Burgess e uma Loser
 http://195.181.162.250/movie/gNCha/ATjaJ/20820.mp4?token=SBUOWBZdFA4aB1cPV1ICB1cHUl9XBFQFBFAHUgACV1QAU1UJXVMBBA1EGhUXEBNUUwg5DwAVXgQDCgMEHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUlJWCwNKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVF5WXBVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
 #EXTINF:-1 tvg-logo="http://iv.pe/wSJ" group-title="Filmes | Terror",Silent Hill
@@ -28,4 +30,4 @@ http://84.17.40.161/movie/gNCha/ATjaJ/22088.mp4?token=SBUOWBZdFA4aVAJSVFNZCAtcBA
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/z1wY25ZpngRNtvSOczT2xhQNv3J.jpg" group-title="Filmes | Lancamentos",Acho Que Matei Minha Chefe
 http://habblet3.azureedge.net/RCFServer3/ondemand/ACHQMTMNHCHFE.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/NdI" group-title="Filmes | Lancamentos",Rambo Ate O Fim
-http://habblet3.azureedge.net/RCFServer3/ondemand/RMBOATOFM.mp4
+https://fs6.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTU3NjE3OTI0OTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM0OiIvdmlkZW9zLzg1MDAwLzg1NTk3Lzg1NTk3XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiIzZjhhN2VjMjQ3YjQwMmRmMmZkZDZmOTk2ODUxNzhkZSI7fQ%3D%3D
