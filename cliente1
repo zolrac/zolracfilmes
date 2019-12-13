@@ -7,7 +7,7 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/afazenda.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/eyt" group-title="Canais | Alternativos",Telecine Pipoca HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/zpZ" group-title="Canais | Alternativos",Telecine Cult HD [Alter]
+#EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/telecinecult.png" group-title="Canais | Alternativos",Telecine Cult HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/1q6" group-title="Canais | Alternativos",Telecine Premium HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
@@ -25,7 +25,7 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/bXm" group-title="Canais | Alternativos",Space SD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/jqx" group-title="Canais | Alternativos",Universal Channel HD [Alter]
+#EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="Canais | Alternativos",Universal Channel HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/5D3" group-title="Canais | Alternativos",Discovery Channel HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
@@ -33,7 +33,7 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/54s" group-title="Canais | Alternativos",Discovery Turbo HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/VR3" group-title="Canais | Alternativos",Discovery H&H HD [Alter]
+#EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais | Alternativos",Discovery H&H HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/i6a" group-title="Filmes | Comedia",Sierra Burgess e uma Loser
 http://195.181.162.250/movie/gNCha/ATjaJ/20820.mp4?token=SBUOWBZdFA4aB1cPV1ICB1cHUl9XBFQFBFAHUgACV1QAU1UJXVMBBA1EGhUXEBNUUwg5DwAVXgQDCgMEHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUlJWCwNKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVF5WXBVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
@@ -419,23 +419,23 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/ku8" group-title="Canais | Premiere",Premiere Clubes HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/TS6" group-title="Canais | SporTV",SporTV 3 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/TS6" group-title="Canais | Esportes",SporTV 3 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/8g1" group-title="Canais | SporTV",SporTV 2 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/8g1" group-title="Canais | Esportes",SporTV 2 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/bt3" group-title="Canais | SporTV",SporTV HD
+#EXTINF:-1 tvg-logo="http://iv.pe/bt3" group-title="Canais | Esportes",SporTV HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/NTc" group-title="Canais | Esportes",FOX Sports 2 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/laR" group-title="Canais | Esportes",FOX Sports HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/wQX" group-title="Canais | Alternativos",ESPN Extra HD [Alter]
+#EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/49P" group-title="Canais | Alternativos",ESPN HD [Alter]
+#EXTINF:-1 tvg-logo="http://iv.pe/49P" group-title="Canais | Esportes",ESPN HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/n8v" group-title="Canais | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/n8v" group-title="Canais | Esportes",ESPN 2 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/MlV" group-title="Canais | ESPN",ESPN Brasil HD
+#EXTINF:-1 tvg-logo="http://iv.pe/MlV" group-title="Canais | Esportes",ESPN Brasil HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/ayO" group-title="Canais | Abertos",Band SP HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
@@ -445,7 +445,7 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Canais | Abertos",SBT HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Canais | Globo",Globo SP HD
+#EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Canais | Abertos",Globo SP HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/yZr" group-title="Series | The Vampire Diaries",The Vampire Diaries S01 E01
 http://195.181.163.23/series/R2zSN/hA1Sz/4445.mp4?token=SBUOWBZdFA4aVVUCUgIHBwdUX1FQBVFVAAFVAwRdVQYEVgdbVA1UAwBEGhUXEBNUUwg5DwAVXgIHBgQYEBEQB0FoD11HDxQFDlQPA1dTQx0QEQ8LARVeBwYFBwULVVpSChtESQxRFA4aSwcVSEYESUYAFAgFWztSVkRYV1dGWUARG0RWC2pSUVUHWFNGXkMBEElEDxdHRgwRcX11YCtDMR12SBtJF1RdTBRXQwFGW19HCQpKRlQLQ11GQ00QXkEgYRVKGwBNQlFWFV9YCkZbE18VUkRIFQ1FbEBUR0YWBgNeUhQbXxcGFhREW1YcOwJeXAsDBRBeC1hAEAsWA0ZPQF5YCFARWkRrSA9SFV4KFF1eGA==
