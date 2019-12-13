@@ -775,5 +775,11 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
 ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Lucifer S04 Lucifer - S04E08 - Super Bad Boyfriend" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enVzrP8xS7VR6wulO9dMi1y48xj.jpg" group-title="Series | Lucifer",Lucifer S04 Lucifer - S04E08 - Super Bad Boyfriend
-https://ipv4-c002-cpq003-claro-br-net-isp.1.oca.nflxvideo.net/range/9454921-10585851?o=AQMhJw6VRKvPuqeNHLCjIv_FZ7m3zRgS_vvMwp_jMGn0UmCyF0faiRE1dP-Y5ywnp0wSJHELatVyjpbDcSpxxFcoMWQWzHlcZzXIk9Q94UnNv9kORvhIdps1Q0of04x7_hb8Df02LBRgXECi1OA8Ei5youasPtW4j9uQOKmbMw&v=5&e=1576283362&t=FLFUZXQWPYMvPA0JHX52svu-ZpI&sc=Eq%40%1FT%5CTkjZ%01%05uZ%60%0Eqh%7FumGwHk%06e%25.x%5D%1F%18%24o%7BC%15_XsB%5DX%05%04%18%0ES%02S
+#EXTINF:-1,24H Tres Espias Demais
+http://samuraihd.com.br:25461/101010/101010/24719
+#EXTINF:-1,24H OS SIMPSONS 1989/1999
+http://samuraihd.com.br:25461/101010/101010/21455
+#EXTINF:-1,24H CHAVES CHAPOLIN
+http://samuraihd.com.br:25461/101010/101010/8488
+#EXTINF:-1,24H CAMERAS ESCONDIDAS
+http://samuraihd.com.br:25461/101010/101010/8417
