@@ -35,8 +35,88 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais | Alternativos",Discovery H&H HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/jE2" group-title="Canais | Infantis",Discovery Kids HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/RVE" group-title="Canais | Alternativos",Investigation Discovery HD [Alter]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title="Canais | Variedades",FOX Life HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Vbg" group-title="Canais | Variedades",GNT HD
+ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/xsI" group-title="Canais | Variedades",MTV HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/C9E" group-title="Canais | Variedades",Multishow HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/B95" group-title="Canais | Variedades",TLC HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Canais | Filmes e Séries",FOX HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Canais | Filmes e Séries",FX HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/y4E" group-title="Canais | Filmes e Séries",TNT HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/MUz" group-title="Canais | Filmes e Séries",Studio Universal HD
+ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Uq5" group-title="Canais | Documentários",History Channel HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/P1H" group-title="Canais | Documentários",NatGeo HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="Canais | Filmes e Séries",TCM HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/vKM" group-title="Canais | Filmes e Séries",Canal Sony HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Q4O" group-title="Canais | Filmes e Séries",MAX Up HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Kt7" group-title="Canais | Filmes e Séries",MAX Prime HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/YS2" group-title="Canais | Filmes e Séries",MAX HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/max.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/dZG" group-title="Canais | HBO",HBO Signature HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AoW" group-title="Canais | HBO",HBO Plus HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/otb" group-title="Canais | HBO",HBO Family HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/hBW" group-title="Canais | HBO",HBO 2 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/muz" group-title="Canais | HBO",HBO HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/sMR" group-title="Canais | Filmes e Séries",FOX Premium 2 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/QyU" group-title="Canais | Filmes e Séries",FOX Premium 1 HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Canais | Esportes",Combate HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/F7Y" group-title="Canais | Infantis",Tooncast HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/xud" group-title="Canais | Infantis",Nick Jr HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/R6D" group-title="Canais | Infantis",Nickelodeon HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/aaq" group-title="Canais | Infantis",Gloob HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Rq9" group-title="Canais | Infantis",Boomerang HD
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
+#EXTINF:-1,24H OS SIMPSONS 1989/1999
+http://samuraihd.com.br:25461/101010/101010/21455
+#EXTINF:-1,24H CHAVES CHAPOLIN
+http://samuraihd.com.br:25461/101010/101010/8488
+#EXTINF:-1,24H CAMERAS ESCONDIDAS
+http://samuraihd.com.br:25461/101010/101010/8417
 #EXTINF:-1 tvg-logo="http://iv.pe/i6a" group-title="Filmes | Comedia",Sierra Burgess e uma Loser
 http://195.181.162.250/movie/gNCha/ATjaJ/20820.mp4?token=SBUOWBZdFA4aB1cPV1ICB1cHUl9XBFQFBFAHUgACV1QAU1UJXVMBBA1EGhUXEBNUUwg5DwAVXgQDCgMEHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUlJWCwNKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVF5WXBVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
+#EXTINF:-1 tvg-logo="http://www.megatorrentshd.org/wp-content/uploads/2019/10/capa-coringa-hd-filmes-169x300.jpg" group-title="Filmes | Lancamento",Coringa
+https://s-delivery7.mxdcontent.net/v/15344700e14232f8cc9da84814c2a5df.mp4?s=_EqACZv_KjimT0vNjjhi0A&e=1576274276&ref=7eh2g731sv&ab=0&r=
 #EXTINF:-1 tvg-logo="http://iv.pe/wSJ" group-title="Filmes | Terror",Silent Hill
 http://195.181.162.250/movie/gNCha/ATjaJ/21853.mp4?token=SBUOWBZdFA4aAgQHAFJTUFBQAlAGVgUDUAIIBgNUVlVWBF5fVwNVAg9EGhUXEBNUUwg5DwAVXgQCCgQHHkYWEVZFOVABFwwWCVAEAVZcWBMeRxIPCVJGDAIHBgIDUlFVBQFKGxVcUhYCRBsGRkhDVEoRAxQKVghpV1dHXVEBQVgRFUobCltpUF0LV1kARlsTAkdKRA1EFBQJEHJ4czYsQmAZJxdHGRRWURJEVhABQwsQVF5TURVIFFBdRFpGFhpACRUka0cZFFFAElNZFw0OXxBfRAsUA0YaEVtCa0ABEBZBUgdUAEcUDhpWFBtGCQBJbQYJCApSB0JaXV9HEF5BUxEbRFQKW19AVxRpRw0AQwtcEAoKGQ==
 #EXTINF:-1 tvg-logo="http://iv.pe/S8P" group-title="Filmes | Romance",Sim Eu Aceito
@@ -747,39 +827,3 @@ http://195.181.163.23/series/R2zSN/hA1Sz/4590.mp4?token=SBUOWBZdFA4aUg4OAFBUVFBU
 http://195.181.163.23/series/R2zSN/hA1Sz/4590.mp4?token=SBUOWBZdFA4aUg4OAFBUVFBUBFNdVVJXC1MIBQEAVwdSAVQMBgMEAAtEGhUXEBNUUwg5DwAVXgIGCwEYEBEQB0FoD11HDxQFDlQPA1dTQx0QEQ8LARVeBwYFBwULVltbAxtESQxRFA4aSwcVSEYESUYAFAgFWztSVkRYV1dGWUARG0RWC2pSUVUHWFNGXkMBEElEDxdHRgwRcX11YCtDMR12SBtJF1RdTBRXQwFGW19HCQpKRlQLQ11GQ00QXkEgYRVKGwBNQlFWFV9YCkZbE18VUkRIFQ1FbEBUR0YWBgNeUhQbXxcGFhREW1YcOwJeXAsDBRBeC1hAEAsWA0ZPQF5YCFARWkRrSA9SFV4KFF1eGA==
 #EXTINF:-1 tvg-logo="http://iv.pe/yZr" group-title="Series | The Vampire Diaries",The Vampire Diaries S08 E16
 http://195.181.163.23/series/R2zSN/hA1Sz/4590.mp4?token=SBUOWBZdFA4aUg4OAFBUVFBUBFNdVVJXC1MIBQEAVwdSAVQMBgMEAAtEGhUXEBNUUwg5DwAVXgIGCwEYEBEQB0FoD11HDxQFDlQPA1dTQx0QEQ8LARVeBwYFBwULVltbAxtESQxRFA4aSwcVSEYESUYAFAgFWztSVkRYV1dGWUARG0RWC2pSUVUHWFNGXkMBEElEDxdHRgwRcX11YCtDMR12SBtJF1RdTBRXQwFGW19HCQpKRlQLQ11GQ00QXkEgYRVKGwBNQlFWFV9YCkZbE18VUkRIFQ1FbEBUR0YWBgNeUhQbXxcGFhREW1YcOwJeXAsDBRBeC1hAEAsWA0ZPQF5YCFARWkRrSA9SFV4KFF1eGA==
-#EXTINF:-1 tvg-logo="http://iv.pe/jE2" group-title="Canais | Infantis",Discovery Kids HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/RVE" group-title="Canais | Alternativos",Investigation Discovery HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title="Canais | Variedades",FOX Life HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Vbg" group-title="Canais | Variedades",GNT HD
-ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/xsI" group-title="Canais | Variedades",MTV HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/C9E" group-title="Canais | Variedades",Multishow HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/B95" group-title="Canais | Variedades",TLC HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Canais | Filmes e Séries",FOX HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Canais | Filmes e Séries",FX HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/y4E" group-title="Canais | Filmes e Séries",TNT HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/MUz" group-title="Canais | Filmes e Séries",Studio Universal HD
-ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=
-#EXTINF:-1,24H Tres Espias Demais
-http://samuraihd.com.br:25461/101010/101010/24719
-#EXTINF:-1,24H OS SIMPSONS 1989/1999
-http://samuraihd.com.br:25461/101010/101010/21455
-#EXTINF:-1,24H CHAVES CHAPOLIN
-http://samuraihd.com.br:25461/101010/101010/8488
-#EXTINF:-1,24H CAMERAS ESCONDIDAS
-http://samuraihd.com.br:25461/101010/101010/8417
