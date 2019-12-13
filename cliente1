@@ -772,7 +772,7 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/y4E" group-title="Canais | Filmes e Séries",TNT HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/dg2" group-title="Canais | Alternativos",TNT SD [Alter]
-https://live.multicanais.com/mylive/tntsd/video.m3u8?md5=yx1Ezhmz8uYTWB3qCQCaFw&expires=1576242960
+https://cdn.multicanais.com/mylive/tntsd/2019/12/13/11/55/15-05500.ts
 #EXTINF:-1 tvg-logo="http://iv.pe/MUz" group-title="Canais | Filmes e Séries",Studio Universal HD
 ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
