@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Canais | Variedades",Bis FHD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=
+https://redelope.azureedge.net/hls1/bis.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/afazenda.m3u8?wmsAuthSign=
+https://redelope.azureedge.net/hls1/afazenda.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/f1N" group-title="Canais | Alternativos",Telecine Action HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
+https://redelope.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/eyt" group-title="Canais | Alternativos",Telecine Pipoca HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+https://redelope.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/telecinecult.png" group-title="Canais | Alternativos",Telecine Cult HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
+https://redelope.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/1q6" group-title="Canais | Alternativos",Telecine Premium HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/hUv" group-title="Canais | Alternativos",Telecine Fun HD [Alter]
