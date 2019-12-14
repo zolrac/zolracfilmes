@@ -94,7 +94,7 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
+http://tvnanet.xyz:25461/live/palmeiras/1986/4.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Canais | Esportes",Combate HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/F7Y" group-title="Canais | Infantis",Tooncast HD
