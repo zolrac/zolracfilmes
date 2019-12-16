@@ -10,15 +10,15 @@ https://helestream.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/1q6" group-title="Canais | Alternativos",Telecine Premium HD [Alter]
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_10dcc7b98971195d107e8ac11309ff2ed4afbf79/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/hUv" group-title="Canais | Alternativos",Telecine Fun HD [Alter]
-https://helestream.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/telecinefun_ae1e7198_a168efe04cbfab7cf22db244abe7746257dea2c9/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/n1z" group-title="Canais | Alternativos",Telecine Touch HD [Alter]
-https://helestream.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinetouch_74cbd2c2_cc025ddb106f762cb5c940b9cea5241ca7e18d5d/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/iwJ" group-title="Canais | Alternativos",Megapix HD [Alter]
-https://helestream.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/megapix_a6f16ab4_0cfe431ccfd8b5b3ea7a19fa43b4f34b17c6f90a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/8fk" group-title="Canais | Alternativos",TNT Series HD [Alter]
-https://helestream.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_0dcf027e9629861d2e7974a7c901191874d72a09/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/i8x" group-title="Canais | Alternativos",Cinemax HD [Alter]
-https://helestream.azureedge.net/hls1/cinemax.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_70f33e0e8c51281141f5ca50a20afc05f74ab8dd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/jaD" group-title="Canais | Alternativos",Warner Channel HD [Alter]
 https://helestream.azureedge.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/bXm" group-title="Canais | Alternativos",Space SD [Alter]
@@ -46,13 +46,13 @@ https://helestream.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/xsI" group-title="Canais | Variedades",MTV HD
 https://helestream.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/C9E" group-title="Canais | Variedades",Multishow HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_da13f9111ae5f8dcb5431b81f75bc074c50de7bf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/B95" group-title="Canais | Variedades",TLC HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Canais | Filmes e Séries",FOX HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_9948cd455f1a9ec2ae4e7dbe4f1e5c0ac4a03beb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Canais | Filmes e Séries",FX HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_544b55e5238a4adf5ac81524cf5aeebbd6281b5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/y4E" group-title="Canais | Filmes e Séries",TNT HD
@@ -84,15 +84,15 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/hBW" group-title="Canais | HBO",HBO 2 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/muz" group-title="Canais | HBO",HBO HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_6e99634ecf4899bd1bbd772e2a22641accf06cba/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/sMR" group-title="Canais | Filmes e Séries",FOX Premium 2 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/QyU" group-title="Canais | Filmes e Séries",FOX Premium 1 HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_6d1de22f32731453cc4aa716bafc19a9691f7016/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/amcbrasil_b7f5113f_8058dcac204c2fbcd48eb0d88371ac30e54d1769/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_6d1de22f32731453cc4aa716bafc19a9691f7016/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Canais | Esportes",Combate HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/F7Y" group-title="Canais | Infantis",Tooncast HD
