@@ -1,52 +1,50 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Canais | Variedades",Bis FHD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/irL" group-title="Canais | Variedades",A Fazenda HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/afazenda.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/bis.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/f1N" group-title="Canais | Alternativos",Telecine Action HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/eyt" group-title="Canais | Alternativos",Telecine Pipoca HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/telecinecult.png" group-title="Canais | Alternativos",Telecine Cult HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/1q6" group-title="Canais | Alternativos",Telecine Premium HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/hUv" group-title="Canais | Alternativos",Telecine Fun HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/n1z" group-title="Canais | Alternativos",Telecine Touch HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/iwJ" group-title="Canais | Alternativos",Megapix HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/8fk" group-title="Canais | Alternativos",TNT Series HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/i8x" group-title="Canais | Alternativos",Cinemax HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/cinemax.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/jaD" group-title="Canais | Alternativos",Warner Channel HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/bXm" group-title="Canais | Alternativos",Space SD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/space.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="Canais | Alternativos",Universal Channel HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/universal.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/5D3" group-title="Canais | Alternativos",Discovery Channel HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/VZl" group-title="Canais | Alternativos",Discovery Science HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/54s" group-title="Canais | Alternativos",Discovery Turbo HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais | Alternativos",Discovery H&H HD [Alter]
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/jE2" group-title="Canais | Infantis",Discovery Kids HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/RVE" group-title="Canais | Alternativos",Investigation Discovery HD [Alter]
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title="Canais | Variedades",FOX Life HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/Vbg" group-title="Canais | Variedades",GNT HD
-ttps://d2lp5sf6fdaodz.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/xsI" group-title="Canais | Variedades",MTV HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
+https://helestream.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/C9E" group-title="Canais | Variedades",Multishow HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/B95" group-title="Canais | Variedades",TLC HD
@@ -523,8 +521,8 @@ https://d2lp5sf6fdaodz.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/uID" group-title="Canais | Abertos",RecordTV SP HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Canais | Abertos",SBT HD
-https://d2lp5sf6fdaodz.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Canais | Abertos",SBT FHD
+http://195.181.168.248/live/MMgH4/bDfQp/25370.m3u8?token=SBUOWBZdFA4aVlUCAQEECFRcU1RXVFIAVQsDAVFTAlIFBQQPBFZQAQxEGhUXEBNUUwg5DwAVXgQGAQYEHkYWEVZFOVABFwwWCVADAlddWBMeRxIPCVJGDAMeE0RbAEFYEQRUAFwCFBgaA05DARYPUF46AgMSXgdTEQhfQV4IT0BcWTldAFhXWlxEDBVURk0TWxYWRF4VJ3pyYH4UYUoiTBEbRFsMQURVTAMUDUZXUgcCR0pEB1gRWEdASBYIRiEwERtEXB1BU1pLD1lZRl5DXAEQXkRIFQ1FbEBUR0YWBgNeUhQbXxcGFhREW1YcOwJeXAsDBRBeC1hAEAsWA0ZPQF5YCFARWkRrSA9SFV5GUwgCUVZEGQ==
 #EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Canais | Abertos",Globo SP HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/yZr" group-title="Series | The Vampire Diaries",The Vampire Diaries S01 E01
